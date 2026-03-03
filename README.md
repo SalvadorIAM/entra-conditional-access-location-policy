@@ -1,4 +1,4 @@
-# Conditional-Access-Lab-Location-Based-Access-Control
+# # Entra Conditional Access Location Policy
 Practical labs exploring Conditional Access, MFA, and location-based access control in Microsoft Entra ID.
 #   Conditional Access Lab 2: Location-Based Access Control
 
