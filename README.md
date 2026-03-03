@@ -75,6 +75,22 @@ This confirmed the policy was working as designed.
 * Report-only mode is essential for safe testing
 * Rolling back policies is part of normal security operations
 
+  ## Security Context
+
+In enterprise environments, location-based Conditional Access policies are commonly used to reduce risks of unauthorised access and enforce Zero Trust security principles.
+
+By restricting access outside trusted network locations, organisations can limit exposure from unknown or high-risk environments while still allowing legitimate internal access.
+
+This approach is often combined with additional security controls such as:
+
+* Multi-Factor Authentication (MFA)
+* Device compliance policies
+* Risk-based Conditional Access policies
+* Privileged Identity Management (PIM)
+
+Together, these controls help organisations strengthen identity security and reduce the risk of account compromise.
+
+
 ## Next Steps
 
 * Replace block with **Require MFA** for external locations
